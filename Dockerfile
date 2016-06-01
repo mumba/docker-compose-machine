@@ -1,4 +1,4 @@
-FROM ubuntu:15.10
+FROM node:6.2.0-wheezy
 
 MAINTAINER Greg Keys <gregkeys@gmail.com>
 
